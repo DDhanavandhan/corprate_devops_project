@@ -7,7 +7,7 @@ Here is the corrected format for your README file:
 
 Welcome to the NSM Egg Store landing page project! This project is designed to showcase a variety of egg products with a modern and responsive design using React.js and Tailwind CSS.
 
-## Structure
+##  📁Structure
 
 \```html
 NSMwebsite/
@@ -69,9 +69,8 @@ To get a local copy up and running, follow these simple steps:
 
 To run the application in development mode, use the following command:
 
-\```bash
-npm start
-\```
+'npm start' 
+
 
 This will start the development server and open the application in your default web browser.
 
@@ -79,9 +78,7 @@ This will start the development server and open the application in your default 
 
 To create a production build of the application, use:
 
-\```bash
-npm run build
-\```
+'npm run build'
 
 This will generate a `build` directory with the optimized production files.
 
@@ -97,3 +94,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 You can replace the content in your `nsm-egg-store/README.md` file with the above formatted text.
+
+
+
+
+# 👥 Contact
+Developer - @DDhanavandhan
+
+Project Link: https://github.com/DDhanavandhan/corprate_devops_project
