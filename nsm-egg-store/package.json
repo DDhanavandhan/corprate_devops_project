@@ -1,0 +1,43 @@
+{
+  "name": "nsm-egg-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A landing page for NSM Egg Store featuring hover animations and Tailwind CSS styling.",
+  "main": "src/index.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@headlessui/react": "2.2.0",
+    "@heroicons/react": "^2.1.1",
+    "framer-motion": "^12.6.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.38",
+    "tailwindcss": "3.4.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

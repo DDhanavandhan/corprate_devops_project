@@ -1,0 +1,4 @@
+// filepath: /Users/mac/Downloads/NSMwebsite/.gitignore
+node_modules/
+.env
+.DS_Store
