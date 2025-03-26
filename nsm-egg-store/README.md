@@ -5,6 +5,7 @@
 Welcome to the NSM Egg Store landing page project! This project is designed to showcase a variety of egg products with a modern and responsive design using React.js and Tailwind CSS.
 
 ##structure
+,,,html
 
 NSMwebsite/
 ├── node_modules/
@@ -14,7 +15,7 @@ NSMwebsite/
 ├── package.json       # Project dependencies
 ├── package-lock.json  # Dependency lock file
 └── .gitignore        # Git ignore configuration
-
+,,,
 ##technical stack
 
 Backend: Express.js (^4.18.2)
